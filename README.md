@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @campbell-gary
+- 👋 Hi, I’m @campbellg
 - 👀 I’m interested in mobile software development using Flutter/Dart
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Github
