@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @campbell-gary
-- 👀 I’m interested in mobile devlopment using Flutter/Dart
+- 👀 I’m interested in mobile software development using Flutter/Dart
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me campbell-gary@outlook.com
